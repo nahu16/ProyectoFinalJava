@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Dancing Script", cursive;
+}
+
+header {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    color: white;
+}
+
+.logo {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 10px;
+}
+
+main {
+    background-color: black;
+    background-image: url(Imagen/Logo\ LVP.jpg);
+    background-position: center ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+footer {
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.card {
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 3%;
+    display: inline-block;
+    background-color: black;
+}
+.img_portada {
+    width: fit-content;
+    height: 350px;
+    border-radius: 20px;
+    background-color: transparent;
+}
+
+.nombreDisco {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.fechaDisco {
+    font-size: 15px;
+    color: white;
+    text-align:justify ;
+    display: inline-block;
+    padding: 3%;
+}
+
+.verCancion{
+    margin-left: 40px;
+    border-radius: 30px;
+    border-color: white;
+    background-color: white;
+    color: black;
+}
+
+.canciones {
+    font-size: 15px;
+    color: white;
+    text-decoration:underline;
+    margin-left: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    border-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-height: 80%;
+    overflow-y: auto;
+    z-index: 1000; 
+}
+
+.cancion {
+    margin-bottom: 10px;
+}
+
+.voto {
+    border-radius: 30px;
+    border-color: white;
+    background-color: white;
+}
+
+.table{
+    color:white;
+    text-align: center;
+    text-transform:uppercase ;
+}
+
+h3{
+    padding: 10px;
+}

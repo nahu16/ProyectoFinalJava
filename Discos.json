@@ -1,0 +1,497 @@
+{
+    "discos": [
+    {
+    "nombre": "Deskarado",
+    "portada":"../Imagen/Deskarado.jpg",
+    "index":"1",
+    "canciones": [
+    {
+    "nombre": "ALta Magia",
+    "duracion": "2:13"
+    },
+    {
+    "nombre": "El Bandido Salto De Mata",
+    "duracion": "2:46"
+    },
+    {
+    "nombre": "Comun Cangrejo",
+    "duracion": "2:15"
+    },
+    {
+    "nombre": "Madre Resistencia",
+    "duracion": "3:10"
+    },
+    {
+    "nombre": "Pedro",
+    "duracion": "2:58"
+    },
+    {
+    "nombre": "Paren Hoy",
+    "duracion": "2:52"
+    },
+    {
+    "nombre": "Vuelan Palos",
+    "duracion": "2:32"
+    },
+    {
+    "nombre": "A Su Bola",
+    "duracion": "2:32"
+    },
+    {
+    "nombre": "Gente",
+    "duracion": "2:44"
+    },
+    {
+    "nombre": "De Tal Palo Tal Astilla",
+    "duracion": "3:02"
+    },
+    {
+    "nombre": "El Gavilan",
+    "duracion": "1:54"
+    },
+    {
+    "nombre": "Las Polillas",
+    "duracion": "3:16"
+    }
+    ],
+    "anio_publicacion": 1998
+    },
+    
+    {
+    "nombre": "De Bichos y Flores",
+    "portada":"../Imagen/De bichos y flores.webp",
+    "index":"2",
+    "canciones": [
+    {
+    "nombre": "Por La Ciudad",
+    "duracion": "3:02"
+    },
+    {
+    "nombre": "Por Dentro",
+    "duracion": "2:37"
+    },
+    {
+    "nombre": "El Viejo",
+    "duracion": "3:07"
+    },
+    {
+    "nombre": "El Huracán",
+    "duracion": "3:52"
+    },
+    {
+    "nombre": "Contradecir",
+    "duracion": "4:09"
+    },
+    {
+    "nombre": "El Profeta",
+    "duracion": "3:12"
+    },
+    {
+    "nombre": "Potosí",
+    "duracion": "3:13"
+    },
+    {
+    "nombre": "Mañana",
+    "duracion": "2:28"
+    },
+    {
+    "nombre": "El Ojo Moro",
+    "duracion": "2:23"
+    },
+    {
+    "nombre": "José Sabia",
+    "duracion": "3:21"
+    },
+    {
+    "nombre": "Rebuscado",
+    "duracion": "2:51"
+    },
+    {
+    "nombre": "Burbujas",
+    "duracion": "4:03"
+    },
+    {
+        "nombre": "De No Olvidar",
+        "duracion": "2:27"
+        }
+    ],
+    "anio_publicacion": 2001
+    },
+    {
+    "nombre": "A Contraluz",
+    "portada":"../Imagen/A Contraluz.webp",
+    "index":"3",
+    "canciones": [
+    
+    {
+    "nombre": "Llenos De Magia",
+    "duracion": "3:54"
+    },
+    {
+    "nombre": "Sin Palabras",
+    "duracion": "3:24"
+    },
+    {
+    "nombre": "Dice...",
+    "duracion": "5:08"
+    },
+    {
+    "nombre": "De Atar",
+    "duracion": "4:06"
+    },
+    {
+    "nombre": "Va A Escampar",
+    "duracion": "4:43"
+    },
+    {
+    "nombre": "Escobas",
+    "duracion": "4:01"
+    },
+    {
+    "nombre": "Clarobscuro",
+    "duracion": "5:10"
+    },
+    {
+    "nombre": "Zafar",
+    "duracion": "4:24"
+    },
+    {
+    "nombre": "Caldo Precoz",
+    "duracion": "3:29"
+    },
+    {
+    "nombre": "Haciéndose Pasar Por Luz",
+    "duracion": "3:26"
+    },
+    {
+    "nombre": "En El Limbo",
+    "duracion": "4:44"
+    }
+    ,
+    {
+    "nombre": "Un Frasco",
+    "duracion": "4:43"
+    }
+    ,
+    {
+    "nombre": "Doble Filo",
+    "duracion": "3:10"
+    },
+    {
+    "nombre": "A Lo Verde",
+    "duracion": "3:13"
+    }
+    ],
+    "anio_publicacion": 2004
+    },
+    {
+    "nombre": "El Impulso",
+    "portada":"../Imagen/El Impulso.jpg",
+    "index":"4",
+    "canciones": [
+    {
+    "nombre": "Fragil",
+    "duracion": "3:25"
+    },
+    {
+    "nombre": "El Señor",
+    "duracion": "3:22"
+    
+    },
+    {
+    "nombre": "Su Ración",
+    "duracion": "4:04"
+    },
+    {
+    "nombre": "Neutro",
+    "duracion": "3:44"
+    },
+    {
+    "nombre": "Me Pierdo",
+    "duracion": "3:25"
+    },
+    {
+    "nombre": "Clones",
+    "duracion": "3:26"
+    },
+    {
+    "nombre": "Colabore",
+    "duracion": "3:14"
+    },
+    {
+    "nombre": "Para No Verme Más",
+    "duracion": "4:06"
+    },
+    {
+    "nombre": "Con El Destino",
+    "duracion": "4:05"
+    },
+    {
+    "nombre": "Sanar",
+    "duracion": "3:44"
+    },
+    {
+    "nombre": "Pino",
+    "duracion": "4:32"
+    },
+    {
+    "nombre": "La Sin Razón",
+    "duracion": "3:03"
+    },
+    {
+    "nombre": "Hoy Tranquilo",
+    "duracion": "4:25"
+    }
+    ],
+    "anio_publicacion": 2007
+    },
+    {
+    "nombre": "Piel y Hueso",
+    "portada":"../Imagen/Piel y hueso.jpg",
+    "index":"5",
+    "canciones": [
+    {
+    "nombre": "Sobre La Cien",
+    "duracion": "3:54"
+    },
+    {
+    "nombre": "...Y Asi Vivir",
+    "duracion": "3:41"
+    },
+    {
+    "nombre": "La Teoria",
+    "duracion": "2:52"
+    },
+    {
+    "nombre": "Tentación",
+    "duracion": "3:28"
+    },
+    {
+    "nombre": "Sigo Creyendo",
+    "duracion": "2:47"
+    },
+    {
+    "nombre": "Cada Palabra",
+    "duracion": "3:41"
+    },
+    {
+    "nombre": "Se Le Va",
+    "duracion": "3:22"
+    },
+    {
+    "nombre": "El Borde",
+    "duracion": "3:09"
+    },
+    {
+    "nombre": "No Se Sabe Por Qué",
+    "duracion": "3:37"
+    },
+    {
+    "nombre": "Todo El Karma",
+    "duracion": "3:29"
+    },
+    {
+    "nombre": "Se Despierta",
+    "duracion": "3:52"
+    },
+    {
+    "nombre": "Se A Donde Quiere Ir",
+    "duracion": "3:43"
+    },
+    {
+    "nombre": "Solo Un Paredón",
+    "duracion": "4:26"
+    },
+    {
+    "nombre": "El Buitre",
+    "duracion": "3:58"
+    },
+    {
+    "nombre": "Hoy",
+    "duracion": "4:37"
+    },
+    {
+    "nombre": "3 Minutos",
+    "duracion": "3:34"
+    },
+    {
+    "nombre": "Réquiem Por Vos",
+    "duracion": "3:35"
+    }
+    
+    ],
+    "anio_publicacion": 2011
+    },
+    {
+    "nombre": "Érase...",
+    "index":"6",
+    "portada":"../Imagen/Erase.jpg",
+    "canciones": [
+    {
+    
+    "nombre": "La Calle Adicción",
+    "duracion": "3:15"
+    },
+    {
+    "nombre": "El Soldado De Plomo",
+    "duracion": "2:49"
+    },
+    {
+    "nombre": "El Primero",
+    "duracion": "2:36"
+    },
+    {
+    "nombre": "Buenas Mascotas",
+    "duracion": "2:34"
+    },
+    {
+    "nombre": "¿Ves?",
+    "duracion": "3:15"
+    },
+    {
+    "nombre": "Habeo",
+    "duracion": "2:11"
+    },
+    {
+    "nombre": "La Madeja",
+    "duracion": "2:58"
+    },
+    {
+    "nombre": "Canción Para Uno",
+    "duracion": "2:52"
+    },
+    {
+    "nombre": "Mi Tensión",
+    "duracion": "2:39"
+    },
+    {
+    "nombre": "La Vuelta Al Sol",
+    "duracion": "2:15"
+    },
+    {
+    "nombre": "Su Ley",
+    "duracion": "2:46"
+    }
+    ],
+    "anio_publicacion": 2014
+    },
+    {
+    "nombre": "Destilar",
+    "portada":"../Imagen/Destilar.jpg",
+    "index":"7",
+    "canciones": [
+    {
+    "nombre": "Velamen",
+    "duracion": "3:13"
+    },
+    
+    {
+    "nombre": "Atala",
+    "duracion": "3:22"
+    },
+    {
+    "nombre": "La Nube",
+    "duracion": "3:18"
+    },
+    {
+    "nombre": "Casi Todo",
+    "duracion": "2:39"
+    },
+    {
+    "nombre": "Mi Diablo",
+    "duracion": "3:06"
+    },
+    {
+    "nombre": "Con Un Farol",
+    "duracion": "3:17"
+    },
+    {
+    "nombre": "De Negro y Rojo",
+    "duracion": "2:53"
+    },
+    {
+    "nombre": "La Luna de Neuquén",
+    "duracion": "4:20"
+    },
+    {
+    "nombre": "La Revancha",
+    "duracion": "3:27"
+    },
+    {
+    "nombre": "Pensar",
+    "duracion": "3:05"
+    },
+    {
+    "nombre": "Baco",
+    "duracion": "3:20"
+    },
+    {
+    "nombre": "De La Mano",
+    "duracion": "3:20"
+    },
+    {
+    "nombre": "Aprendiz",
+    "duracion": "2:31"
+    }
+    ],
+    "anio_publicacion": 2018
+    },
+    {
+    "nombre": "Discopático",
+    "portada":"../Imagen/Discopatico.jpg",
+    "index":"8",
+    "canciones": [
+    {
+    "nombre": "Contra El Viento",
+    "duracion": "3:23"
+    
+    },
+    {
+    "nombre": "Plan De Fuga",
+    "duracion": "4:01"
+    },
+    {
+    "nombre": "Tesoro",
+    "duracion": "3:48"
+    },
+    {
+    "nombre": "La Pastilla",
+    "duracion": "3:06"
+    },
+    {
+    "nombre": "Lo Pactado",
+    "duracion": "3:11"
+    },
+    {
+    "nombre": "Jugando Con Fuego",
+    "duracion": "3:13"
+    },
+    {
+    "nombre": "En Tu Suelo",
+    "duracion": "4:09"
+    },
+    {
+    "nombre": "Si Fuera Por Mi",
+    "duracion": "3:41"
+    },
+    {
+    "nombre": "Tormenta",
+    "duracion": "3:57"
+    },
+    {
+    "nombre": "El Paraíso",
+    "duracion": "3:12"
+    },
+    {
+    "nombre": "Para Siempre",
+    "duracion": "3:31"
+    },
+    {
+    "nombre": "No Sé",
+    "duracion": "3:34"
+    }
+    ],
+    "anio_publicacion": 2022
+    }
+    ]
+    }
