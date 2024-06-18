@@ -31,7 +31,7 @@ fetch('Discos.json')
             canciones.classList.add("verCancion")
             
             canciones.addEventListener("click", function() {
-                const popup= document.createElement("div")
+                const popup= document.createElement("div") 
                 popup.innerHTML='<h3>Lista de canciones: </h3>'
                 popup.classList.add("popup")
 
