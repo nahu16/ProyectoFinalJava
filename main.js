@@ -12,7 +12,7 @@ fetch('Discos.json')
             card.classList.add("card")
             
             const imagen = document.createElement("img")
-            imagen.setAttribute('src', Disco.portada)
+            imagen.src= Disco.portada
             imagen.classList.add("img_portada")
             card.appendChild(imagen)
 

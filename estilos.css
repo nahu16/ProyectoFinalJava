@@ -90,24 +90,32 @@ li{
     top: 50%;
     left: 50%; 
     transform: translate(-50%, -50%);
-    background-color: rgb(83, 83, 83);
-    color: white;
+    background-image: url(Imagen/FondoCanciones.jpg);
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     border-radius: 30px;
     border-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    max-height: 80%;
-    width: 40%;
+    height: 90%;
+    width: 90%;
     overflow-y: auto;
     z-index: 1000; 
 }
 
 
 .cancion {
-    margin-bottom: 10px;;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-shadow: 50px, black  ;
+    text-align: left;
 }
 
 .voto {
+    text-shadow: 50px, black  ;
     margin-left: 10px;
     border-radius: 30px;
     border-color: white;

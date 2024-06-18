@@ -2,7 +2,7 @@
     "discos": [
     {
     "nombre": "Deskarado",
-    "portada":"../Imagen/Deskarado.jpg",
+    "portada":"Imagen/Deskarado.jpg",
     "index":"1",
     "canciones": [
     {
@@ -59,7 +59,8 @@
     
     {
     "nombre": "De Bichos y Flores",
-    "portada":"../Imagen/De bichos y flores.webp",
+    "portada":"Imagen/De bichos y flores.webp",
+    "contraCara":"Imagen/DeBichosyFlores_Disco.jpg",
     "index":"2",
     "canciones": [
     {
@@ -119,7 +120,7 @@
     },
     {
     "nombre": "A Contraluz",
-    "portada":"../Imagen/A Contraluz.webp",
+    "portada":"Imagen/A Contraluz.webp",
     "index":"3",
     "canciones": [
     
@@ -186,7 +187,7 @@
     },
     {
     "nombre": "El Impulso",
-    "portada":"../Imagen/El Impulso.jpg",
+    "portada":"Imagen/El Impulso.jpg",
     "index":"4",
     "canciones": [
     {
@@ -247,7 +248,7 @@
     },
     {
     "nombre": "Piel y Hueso",
-    "portada":"../Imagen/Piel y hueso.jpg",
+    "portada":"Imagen/Piel y hueso.jpg",
     "index":"5",
     "canciones": [
     {
@@ -329,7 +330,7 @@
     {
     "nombre": "Érase...",
     "index":"6",
-    "portada":"../Imagen/Erase.jpg",
+    "portada":"Imagen/Erase.jpg",
     "canciones": [
     {
     
@@ -381,7 +382,8 @@
     },
     {
     "nombre": "Destilar",
-    "portada":"../Imagen/Destilar.jpg",
+    "portada":"Imagen/Destilar.jpg",
+    "contraCara":"Imagen/Desatilar-disco.jpg",
     "index":"7",
     "canciones": [
     {
@@ -442,7 +444,8 @@
     },
     {
     "nombre": "Discopático",
-    "portada":"../Imagen/Discopatico.jpg",
+    "portada":"Imagen/Discopatico.jpg",
+    "contraCara":"Imagen/Disco_Discopatico.jpeg",
     "index":"8",
     "canciones": [
     {
