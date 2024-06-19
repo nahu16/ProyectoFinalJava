@@ -100,8 +100,8 @@ li{
     border-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    height: 90%;
-    width: 90%;
+    height: 80%;
+    width: 60%;
     overflow-y: auto;
     z-index: 1000; 
 }
@@ -112,6 +112,7 @@ li{
     margin-bottom: 10px;
     text-shadow: 50px, black  ;
     text-align: left;
+    margin-top: 9px; 
 }
 
 .voto {
@@ -130,5 +131,31 @@ li{
 }
 
 h3{
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+
+#ranking{
+    position:relative;
+    top: 20px;
+    margin-right: 35%;
+    margin-left: 35%;
+    width: 30%;
+    background-color: #000000;
+    border: 8px solid #ccc;
     padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    color: rgb(255, 255, 255);
+    border-radius: 10px ;
+}
+
+h2{
+    padding-bottom: 10px;
+}
+
+.input-busqueda{
+    margin-left: 30px;
+    font-size: 20px;
+    border-radius: 10px;
 }
