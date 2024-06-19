@@ -25,6 +25,7 @@ main {
     background-size: contain;
     background-repeat: no-repeat;
     min-height: 100vh;
+    
 }
 
 footer {
@@ -155,7 +156,37 @@ h2{
 }
 
 .input-busqueda{
+    margin-top: 40px;
+    margin-bottom: 20px;
     margin-left: 30px;
     font-size: 20px;
     border-radius: 10px;
 }
+
+@media only screen and (max-width: 999px) {
+    .img_portada {
+        width: fit-content;
+        height: 250px;
+        border-radius: 20px;
+        background-color: transparent;
+    }
+  }
+
+  @media only screen and (max-width: 999px) {
+    #ranking{
+        position:absolute;
+        top: 190px;
+        margin-right: 3%;
+        margin-left: 10%;
+        width: 80%;
+        height: auto;
+        background-color: #000000;
+        border: 8px solid #ccc;
+        padding: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        overflow-y: auto;
+        color: rgb(255, 255, 255);
+        border-radius: 10px ;
+        font-size: 10px
+    }
+  }

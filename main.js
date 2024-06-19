@@ -1,5 +1,4 @@
 
-
 fetch('Discos.json')
     .then(response=>response.json())
     .then(data=>{
@@ -78,7 +77,7 @@ fetch('Discos.json')
 
                         if (sacarvotosCancion>0){
                             Swal.fire({
-                            icon: "error",
+                            icon: "warning",
                             title: "",
                             text: `Su voto a ${cancion.nombre} fue sido eliminado`,
                         })}else{
@@ -98,10 +97,8 @@ fetch('Discos.json')
                 })
                 document.body.appendChild(popup)
                 
-                popup.addEventListener("click", function(event){
-                if(!event.target.closest(".votar") || !event.target.closest(".cancion")){
+                popup.addEventListener("click", function(){
                     popup.remove()
-                }
                 })
 
             })
@@ -178,7 +175,7 @@ fetch('Discos.json')
 
                         if (sacarvotosCancion>0){
                             Swal.fire({
-                            icon: "error",
+                            icon: "warning",
                             title: "",
                             text: `Su voto a ${cancion.nombre} fue sido eliminado`,
                         })}else{
@@ -196,10 +193,8 @@ fetch('Discos.json')
             
                 document.body.appendChild(popup);
             
-                popup.addEventListener("click", function(event) {
-                    if (!event.target.closest(".voto") || !event.target.closest(".cancion")) {
+                popup.addEventListener("click", function() {
                         popup.remove();
-                    }
                 });
             }
 
