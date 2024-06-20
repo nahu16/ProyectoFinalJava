@@ -172,9 +172,9 @@ h2{
         border-radius: 20px;
         background-color: transparent;
     }
-  }
+}
 
-  @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     #ranking{
         position:absolute;
         top: 190px;
@@ -191,16 +191,32 @@ h2{
         border-radius: 10px ;
         font-size: 10px
     }
-  }
-  @media only screen and (max-width: 600px) {
+}
+@media only screen and (max-width: 600px) {
     .card {
         margin-left: 10%;
         margin-right: 2%;
         width: 300px
     }
-  }
-  @media only screen and (max-width: 600px) {
+}
+@media only screen and (max-width: 600px) {
     .input-busqueda{
         margin-left: 15%;
     }
-  }
+}
+@media only screen and (max-width: 600px) {
+    .popup {
+        padding: 10px;
+        height: 80%;
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .cancion {
+        font-size: 15px;
+        margin-bottom: 10px;
+        text-shadow: 50px solid black  ;
+        text-align: left;
+        margin-top: 9px; 
+    }
+}
