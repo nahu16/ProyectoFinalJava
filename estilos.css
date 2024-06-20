@@ -45,9 +45,10 @@ footer {
     margin-top: 3%;
     display: inline-block;
     background-color: black;
+    width: 390px;
 }
 .img_portada {
-    width: fit-content;
+    width: 380px;
     height: 350px;
     border-radius: 20px;
     background-color: transparent;
@@ -163,16 +164,17 @@ h2{
     border-radius: 10px;
 }
 
-@media only screen and (max-width: 999px) {
+@media only screen and (max-width: 600px) {
     .img_portada {
-        width: fit-content;
+        width: 280px;
+        margin-left: 5px;
         height: 250px;
         border-radius: 20px;
         background-color: transparent;
     }
   }
 
-  @media only screen and (max-width: 999px) {
+  @media only screen and (max-width: 600px) {
     #ranking{
         position:absolute;
         top: 190px;
@@ -188,5 +190,17 @@ h2{
         color: rgb(255, 255, 255);
         border-radius: 10px ;
         font-size: 10px
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .card {
+        margin-left: 10%;
+        margin-right: 2%;
+        width: 300px
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .input-busqueda{
+        margin-left: 15%;
     }
   }
